@@ -1,0 +1,16 @@
+body {
+  background-image: url(shardsblur.png);
+  background-color: #EEE;
+}
+.jumbotron {
+  color: #FFF;
+  background: rgba(0, 0, 0, 0.5);
+}
+#graybox {
+  background-color: #EEE;
+  padding: 3% 3% 3%;
+}
+#whitebox {
+  background-color: white;
+  padding: 3% 3% 3%;
+}
