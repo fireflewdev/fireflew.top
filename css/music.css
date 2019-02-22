@@ -1,5 +1,8 @@
 body {
-  background-image: url(shardsblur.png);
+  background-image: url(pianoblur.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 .btn-primary:hover
 {
@@ -18,6 +21,11 @@ body {
 {
     background-color: rgba(0, 0, 0, 0.1);
     border-color: #FFF;
+}
+
+img {
+  height: 5%;
+  width: auto;
 }
 
 h1 {
